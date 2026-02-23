@@ -983,7 +983,7 @@ function App() {
                   <Calendar className="w-5 h-5 text-[#C9A45C] mt-0.5 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-[#111111]">Start Date</p>
-                    <p className="text-[#6B6F5A]">Registration begins in <strong className="text-[#0B3A2C]">June 2024</strong>, and will continue until <strong className="text-[#0B3A2C]">August 2024</strong>.</p>
+                    <p className="text-[#6B6F5A]">Registration begins <strong className="text-[#0B3A2C]">now</strong>.</p>
                   </div>
                 </div>
 
@@ -991,7 +991,7 @@ function App() {
                   <Calendar className="w-5 h-5 text-[#C9A45C] mt-0.5 flex-shrink-0" />
                   <div>
                     <p className="font-medium text-[#111111]">Class Commencement</p>
-                    <p className="text-[#6B6F5A]">Classes will start on <strong className="text-[#0B3A2C]">September 3rd, 2024</strong>.</p>
+                    <p className="text-[#6B6F5A]">Classes will start on <strong className="text-[#0B3A2C]">March 2026</strong>.</p>
                   </div>
                 </div>
 
